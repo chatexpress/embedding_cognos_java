@@ -1,0 +1,6 @@
+com/example/springtest/configuration/RestResourceMainConfig.class
+com/example/springtest/SpringtestApplication.class
+com/example/springtest/other/User.class
+com/example/springtest/configuration/CORSResponseFilter.class
+com/example/springtest/configuration/DefaultJerseyServletConfig.class
+com/example/springtest/flows/HelloWebRestService.class
